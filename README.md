@@ -7,8 +7,11 @@ https://halekj.top/category/%e7%a7%91%e5%ad%a6%e4%b8%8a%e7%bd%91/%e5%85%8d%e8%b4
 https://www.youtube.com/watch?v=m7C_6DWeGK8
 
 需要使用到的软件：
+
 1.v2rayN 最新版下载地址>>
+
 https://github.com/2dust/v2rayN/releases
+
 2.workers win专用ip优选：下载地址>>
 
 https://jdssl.top/wp-content/uploads/2023/07/works%E4%B8%93%E7%94%A8ip%E4%BC%98%E9%80%89.zip
@@ -44,6 +47,5 @@ cdn.anycast.eu.org （亚洲地区）
 
 无法优选ip 可以使用这个（youxuan.jdssl.link）域名在v2ray 填优选ip处填写，把端口改为：80 并把下面的tls关闭。
 
-<img src="https://user-images.githubusercontent.com/125989687/281600806-d6b70de5-48f9-4738-893d-6e4fb350a548.jpg" alt="微信赞赏" style="max-width:50%;">
+![01](https://github.com/Charlie1469/V2rayN/assets/125989687/47ea6f76-8f54-42ba-b5d9-db59891c3f45)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/125989687/281600806-d6b70de5-48f9-4738-893d-6e4fb350a548.jpg"><img src="https://user-images.githubusercontent.com/125989687/281600806-d6b70de5-48f9-4738-893d-6e4fb350a548.jpg" alt="微信赞赏" style="max-width: 50%;"></a></p>
