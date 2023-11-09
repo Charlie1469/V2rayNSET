@@ -44,5 +44,5 @@ cdn.anycast.eu.org （亚洲地区）
 
 无法优选ip 可以使用这个（youxuan.jdssl.link）域名在v2ray 填优选ip处填写，把端口改为：80 并把下面的tls关闭。
 
-<img src="https://user-images.githubusercontent.com/125989687/281600806-d6b70de5-48f9-4738-893d-6e4fb350a548.jpg" alt="微信赞赏" style="max-width: 50%;">
+<img src="https://user-images.githubusercontent.com/125989687/281600806-d6b70de5-48f9-4738-893d-6e4fb350a548.jpg" alt="微信赞赏" style="max-width:50%;">
 ![微信打赏码](https://github.com/Charlie1469/V2rayN/assets/125989687/d6b70de5-48f9-4738-893d-6e4fb350a548)
